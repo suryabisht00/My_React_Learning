@@ -1,0 +1,9 @@
+.box-class {
+    background-color: #a59191;
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+
+}
